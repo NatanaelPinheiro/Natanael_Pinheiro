@@ -87,7 +87,7 @@ body{
     justify-content: space-between;
 }
 h2, h3, p{
-    font-family: 'Staatliches', cursive;
+    font-family: 'Staatliches', Arial;
 }
 .intro h2{
     font-size: 5rem;
