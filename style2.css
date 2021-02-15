@@ -31,7 +31,7 @@ body{
     right: 15vw;
 }
 h2, h3, p{
-    font-family: 'Staatliches', cursive;
+    font-family: 'Staatliches', Arial;
 }
 body{
     /* --- mudar depois para .body{}, se necessário. --- */ 
