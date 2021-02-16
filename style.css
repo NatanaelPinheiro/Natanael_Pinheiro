@@ -162,7 +162,7 @@ h2, h3, p{
         justify-content: center;
     }
     #listCont li a{
-        font-size: 3rem;
+        font-size: 2rem;
         margin: auto 10vw;
     }
     .intro{
@@ -207,26 +207,26 @@ h2, h3, p{
         right: 0vw;
     }
     #listCont li a{
-        font-size: 2rem;
+        font-size: 1.8rem;
         margin: auto 10vw;
     }
     .intro h3{
         margin-bottom: 15vh;
-        font-size: 2.5rem;
+        font-size: 2.3rem;
     }
     .intro h2{
-        font-size: 3rem;
+        font-size: 2.6rem;
         margin-top: 10vh;
     }
 }
 @media screen and (max-width: 375px){
     .intro h3{
         margin-bottom: 15vh;
-        font-size: 2rem;
+        font-size: 1.9rem;
        
     }
     .intro h2{
-        font-size: 2.5rem;
+        font-size: 2.2rem;
         margin-top: 10vh;
        
     }
@@ -337,6 +337,17 @@ h2, h3, p{
     }
     .aboutMe p{
         font-size: 2.5rem;
+    }
+}
+@media screen and (max-width: 425px){
+    .partTwo{
+        height: 80vh;
+    }
+    .aboutMe p{
+        font-size: 2.2rem;
+    }
+    .aboutMe h2{
+        font-size: 5rem;
     }
 }
 @media screen and (max-width: 375px){
